@@ -19,6 +19,8 @@
 
 ## Example Skills
 
+- [opsdroid-minecraft-skill](https://github.com/whateverany-scratch/opsdroid-minecraft-skill) - Sample ChatOps for Minecraft Server administration. Send selected server log messages over chat and run mcrcon commands from chat.
+
 ### Official examples (legacy)
 
 - [opsdroid/skill-random](https://github.com/opsdroid/skill-random) - A skill for opsdroid to perform random events like flipping a coin 
