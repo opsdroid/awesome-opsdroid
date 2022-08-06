@@ -15,7 +15,7 @@
 
 ### Room Management
 
-- [Sleuth56/Matrix-Community-Manager](https://gitlab.com/Sleuth56/Matrix-Community-Manager) - The highly configurable message aggregation, filtering and community management bot for [Matrix](https://matrix.org).
+- [Sleuth56/Matrix-Community-Manager](https://gitlab.com/Sleuth56/Matrix-Community-Manager) - The highly configurable message aggregation, filtering, and community management bot for [Matrix](https://matrix.org).
 
 ## Skill development
 
