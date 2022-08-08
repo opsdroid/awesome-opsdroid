@@ -11,6 +11,12 @@
 
 - [opsdroid/opsdroid-homeassistant](https://github.com/opsdroid/opsdroid-homeassistant) - A Home Assistant plugin for opsdroid 
 
+## Matrix
+
+### Room Management
+
+- [Sleuth56/Matrix-Community-Manager](https://gitlab.com/Sleuth56/Matrix-Community-Manager) - The highly configurable message aggregation, filtering, and community management bot for [Matrix](https://matrix.org).
+
 ## Skill development
 
 - [opsdroid/cookiecutter-skill](https://github.com/opsdroid/cookiecutter-skill) - A cookiecutter for creating new skills 
